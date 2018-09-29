@@ -5,7 +5,7 @@ My first repository on GitHub
 Tap on the button to change the font color of the text from black to blue.
 
 ### App Walk-though
-<img src="https://imgur.com/a/HE2rBxI" width=200><br>
+<img src="https://i.imgur.com/koqy5i4.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
